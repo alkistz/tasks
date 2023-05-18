@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Alkis Tzaras <at@saper-vedere.eu>"]
 readme = "README.md"
-packages = [{include = "tasks_api"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
